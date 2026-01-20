@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 Mi nombre es Sebastián Candelas Quero y tengo 22 años. Soy de Granada, España. Soy técnico en desarrollo de aplicaciones multiplataforma y actualmente estoy estudiando una especialización en Desarrolo de Inteligencia Artificial y Big Data en Mercedarias Granada FP. 
 
